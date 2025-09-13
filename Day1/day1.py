@@ -14,3 +14,4 @@ age = 18
 print(" my name is %s and im %d years old" %(name, age))
 print(" my name is {} and im {} years old".format(name,age))
 print(f"my name is {name} and im {age} years old")
+		
